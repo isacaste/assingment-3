@@ -1,2 +1,3 @@
 # assingment-3
-code and readme
+the purpose of dis code is to code <br\>
+bla bla bla
